@@ -1,0 +1,36 @@
+[
+    {
+        "course":"Development"
+    },
+    {
+        "course":"Business"
+    },
+    {
+        "course":"Finance & Accounting"
+    },
+    {
+        "course":"IT & Software"
+    },
+    {
+        "course": "Office Productivity"
+    },
+    {
+        "course": "Personal Development"
+    },
+    {
+        "course": "Design"
+    },
+    {
+        "course": "Marketing"
+    }, 
+    
+    {
+        "course": "Photography & Video"
+    },
+    {
+        "course": "Health & Fitness"
+    },
+    {
+        "course": "Music"
+    }
+]
